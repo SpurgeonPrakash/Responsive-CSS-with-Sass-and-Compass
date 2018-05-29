@@ -5,7 +5,7 @@
   "main": "index.js",
   "repository": {
     "type": "git",
-    "url": "?.git"
+    "url": "https://github.com/MarkBilginer/Responsive-CSS-with-Sass-and-Compass.git"
   },
   "author": "Mark Bilginer",
   "license": "ISC",
