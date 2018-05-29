@@ -1,3 +1,7 @@
 function test(){
-    return 'hello';
+    return 'hi';
+}
+
+function test(){
+    return 'world';
 }
